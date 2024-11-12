@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <BaseOutputPath>../../</BaseOutputPath>
+    <BaseIntermediateOutputPath>../../Obj</BaseIntermediateOutputPath>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <ApplicationIcon>Font\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Font\icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Font\Maplestory Light.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DiffPlex" Version="1.7.2" />
+    <PackageReference Include="Google.Apis.Drive.v3" Version="1.68.0.3508" />
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.68.0.3498" />
+    <PackageReference Include="SharpSvn" Version="1.14003.272" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+    </None>
+  </ItemGroup>
+
+</Project>

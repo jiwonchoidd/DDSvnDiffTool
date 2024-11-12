@@ -1,0 +1,17 @@
+﻿<Window x:Class="SvnDiffTool.LoadingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SvnDiffTool"
+        mc:Ignorable="d"
+        Title="LoadingWindow" Height="250" Width="650" WindowState="Maximized"
+        WindowStyle="None" AllowsTransparency="True" Background="LightGray" ShowInTaskbar="False">
+    <Grid>
+        <!-- 로딩 화면 -->
+        <StackPanel x:Name="loadingScreen" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Visible">
+            <TextBlock x:Name="loadingText" Text="로딩 중..." FontSize ="18"/>
+            <ProgressBar x:Name="loadingBar" Width="200" Height="20" Maximum="1"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\Tool\\SvnDiff\\SvnDiffTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDD1F2A-399A-466E-80AC-B9B861287DF1}|SvnDiffTool\\SvnDiffTool.csproj|c:\\project\\tool\\svndiff\\svndifftool\\svndifftool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDD1F2A-399A-466E-80AC-B9B861287DF1}|SvnDiffTool\\SvnDiffTool.csproj|solutionrelative:svndifftool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDD1F2A-399A-466E-80AC-B9B861287DF1}|SvnDiffTool\\SvnDiffTool.csproj|c:\\project\\tool\\svndiff\\svndifftool\\svndifftool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CDD1F2A-399A-466E-80AC-B9B861287DF1}|SvnDiffTool\\SvnDiffTool.csproj|solutionrelative:svndifftool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDD1F2A-399A-466E-80AC-B9B861287DF1}|SvnDiffTool\\SvnDiffTool.csproj|c:\\project\\tool\\svndiff\\svndifftool\\svndifftool\\svnhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDD1F2A-399A-466E-80AC-B9B861287DF1}|SvnDiffTool\\SvnDiffTool.csproj|solutionrelative:svndifftool\\svnhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDD1F2A-399A-466E-80AC-B9B861287DF1}|SvnDiffTool\\SvnDiffTool.csproj|c:\\project\\tool\\svndiff\\svndifftool\\svndifftool\\googlesheet\\gssheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDD1F2A-399A-466E-80AC-B9B861287DF1}|SvnDiffTool\\SvnDiffTool.csproj|solutionrelative:svndifftool\\googlesheet\\gssheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 105,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Project\\Tool\\SvnDiff\\SvnDiffTool\\SvnDiffTool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SvnDiffTool\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Project\\Tool\\SvnDiff\\SvnDiffTool\\SvnDiffTool\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SvnDiffTool\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:19:54.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Project\\Tool\\SvnDiff\\SvnDiffTool\\SvnDiffTool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SvnDiffTool\\MainWindow.xaml",
+              "ToolTip": "C:\\Project\\Tool\\SvnDiff\\SvnDiffTool\\SvnDiffTool\\MainWindow.xaml",
+              "RelativeToolTip": "SvnDiffTool\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T05:19:52.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SvnHelper.cs",
+              "DocumentMoniker": "C:\\Project\\Tool\\SvnDiff\\SvnDiffTool\\SvnDiffTool\\SvnHelper.cs",
+              "RelativeDocumentMoniker": "SvnDiffTool\\SvnHelper.cs",
+              "ToolTip": "C:\\Project\\Tool\\SvnDiff\\SvnDiffTool\\SvnDiffTool\\SvnHelper.cs",
+              "RelativeToolTip": "SvnDiffTool\\SvnHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:19:48.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GSSheet.cs",
+              "DocumentMoniker": "C:\\Project\\Tool\\SvnDiff\\SvnDiffTool\\SvnDiffTool\\GoogleSheet\\GSSheet.cs",
+              "RelativeDocumentMoniker": "SvnDiffTool\\GoogleSheet\\GSSheet.cs",
+              "ToolTip": "C:\\Project\\Tool\\SvnDiff\\SvnDiffTool\\SvnDiffTool\\GoogleSheet\\GSSheet.cs",
+              "RelativeToolTip": "SvnDiffTool\\GoogleSheet\\GSSheet.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:18:23.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

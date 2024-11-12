@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="DetailDiffControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DiffResult.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoadingWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SvnReposSelector.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="DetailDiffControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DiffResult.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoadingWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SvnRevisionSelector.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SvnReposSelector.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
